@@ -1,1 +1,3 @@
 RCB auction discussion
+
+Complete analysis of the players to buy at the auction and maintaiin funds
